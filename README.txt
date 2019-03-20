@@ -1,3 +1,8 @@
+port 80 : \webapps
+port 8161 : 8161/admin
+MQTT_PORT = 1883
+
+
 Welcome to Apache ActiveMQ 
 =======================================================================
 Apache ActiveMQ is a high performance Apache 2.0 licensed
