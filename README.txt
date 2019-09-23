@@ -1,3 +1,7 @@
+
+activemq.bat便是启动脚本，双击启动
+ActiveMQ默认启动到8161端口，启动完了后在浏览器地址栏输入：http://localhost:8161/admin要求输入用户名密码，默认用户名密码为admin、admin，这个用户名密码是在conf/users.properties中配置的。输入用户名密码后便可看到如下图的ActiveMQ控制台界面了。
+
 port 80 : \webapps
 port 8161 : 8161/admin
 MQTT_PORT = 1883
